@@ -34,6 +34,9 @@ This lab demonstrates inter-VLAN routing using the router-on-a-stick method. Two
 - Inter-VLAN routing
 - Connectivity testing and troubleshooting
 
+- ## Files
+- `router-on-a-stick-intervlan-lab.pkt` (Packet Tracer lab file)
+
 ## Troubleshooting
 ### Issue:
 Devices could not ping across VLANs.
