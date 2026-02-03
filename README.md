@@ -21,11 +21,11 @@ This lab demonstrates inter-VLAN routing using the router-on-a-stick method. Two
 
 ## Router Configuration
 ### Router Interfaces
-![Router IP Interface Brief](screenshots/router_ip_int_brief.png)
+![Router IP Interface Brief](screenshots/router_interfaces.png)
 
 ## Connectivity Test
 ### Inter-VLAN Ping Success
-![Ping Test](screenshots/ping_success.png)
+![Ping Test](screenshots/intervlan_ping.png)
 
 ## Skills Demonstrated
 - VLAN creation and port assignment
